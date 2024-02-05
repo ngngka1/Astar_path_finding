@@ -1,6 +1,6 @@
 # This program aims to find the shortest path to the goal with provided map and start position. To use it, run:
 # Astar_search(map, start position)
-# The function returns a stack of nodes which is the path to the goal.
+# The function returns a stack by default which is the path to the goal.
 # For more details, please refer to the documentation of the function.
 
 
